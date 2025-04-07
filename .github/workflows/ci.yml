@@ -71,8 +71,8 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        git config --global user.email "nileshsahitya9@gmail.com"
-        git config --global user.name "Nilesh Sahitya"
+        git config --global user.email "subroto.subro@gmail.com"
+        git config --global user.name "subrotosharma"
         git add helm/go-app-devops-chart/values.yaml
         git commit -m "Update tag in Helm chart"
         git push
