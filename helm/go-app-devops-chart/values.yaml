@@ -4,7 +4,7 @@ image:
   repository: nilesh9/go-app-devops
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "13737928828"
+  tag: "14305604246"
 
 ingress:
   enabled: false
